@@ -46,10 +46,13 @@
 
 ### 手写字体识别界面
 ![手写界面](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.png?raw=true)
-![手写界面](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.png?raw=true)
+![手写界面](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C.png?raw=true)
 
 ### 地址识别（识别失败&成功）
 ![地址识别](https://github.com/ccyymm/final_api/blob/master/%E5%9C%B0%E5%9D%80%E8%AF%86%E5%88%AB.png?raw=true)
+
+### 文本纠错
+
 
 
 
