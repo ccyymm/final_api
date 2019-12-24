@@ -49,7 +49,7 @@
 
 # api调用展示
 ## 流程图：
-![api流程图]()
+![api流程图](https://github.com/ccyymm/final_api/blob/master/api%E8%B0%83%E7%94%A8%E6%B5%81%E7%A8%8B%E5%9B%BE.png?raw=true)
 
 
 
