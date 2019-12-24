@@ -68,20 +68,12 @@
 参考代码：
 ![代码](https://github.com/ccyymm/final_api/blob/master/EC$F79EDFR9MZ%5B33%5D@(DM0E.png?raw=true)
 
-![代码](https://github.com/ccyymm/final_api/blob/master/EC$F79EDFR9MZ%5B33%5D@(DM0E.png?raw=true)
+![代码](https://github.com/ccyymm/final_api/blob/master/Y2MLJ0D@Y%25IR0B%5D5IYL1%7BSF.png?raw=true)
 
-
-
-### 百度地址识别api（链接）
-* 输入：
-* 输出：
-### 百度文本纠错api（链接）
-* 输入：
-* 输出：
 
 ## api对比
-腾讯手写文字识别（链接）：
-百度手写文字识别（链接）：
+腾讯手写文字识别（链接）：图片识别比较慢，容易识别失败
+百度手写文字识别（链接）：识别比较快，成功率较高
 
 
 ## api使用后风险评估报告
