@@ -68,13 +68,11 @@ HTTP 方法：POST
 请求URL： https://aip.baidubce.com/rest/2.0/ocr/v1/handwriting
 
 * 输入：
-# # encoding:utf-8
-
+# 
 import requests
 import base64
 
 request_url = "https://aip.baidubce.com/rest/2.0/ocr/v1/general"
-# 二进制方式打开图片文件
 f = open('[本地文件]', 'rb')
 img = base64.b64encode(f.read())
 
@@ -86,6 +84,21 @@ response = requests.post(request_url, data=params, headers=headers)
 if response:
     print (response.json())
 * 输出：
+{
+    "log_id": 620759800,
+    "words_result": [
+        {
+            "location": {
+                "left": 56,
+                "top": 0,
+                "width": 21,
+                "height": 210
+            },
+            "words": "3"
+        }
+    ],
+    "words_result_num": 1
+}
 
 ### 百度地址识别api（链接）
 * 输入：
