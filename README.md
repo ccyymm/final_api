@@ -66,6 +66,10 @@
 * 输入：图片
 * 输出：文字
 参考代码：
+![代码](https://github.com/ccyymm/final_api/blob/master/EC$F79EDFR9MZ%5B33%5D@(DM0E.png?raw=true)
+
+![代码](https://github.com/ccyymm/final_api/blob/master/EC$F79EDFR9MZ%5B33%5D@(DM0E.png?raw=true)
+
 
 
 ### 百度地址识别api（链接）
