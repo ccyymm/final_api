@@ -63,42 +63,10 @@
 
 ## 百度api：
 ### 百度手写文字识别api（链接）
+* 输入：图片
+* 输出：文字
+参考代码：
 
-HTTP 方法：POST
-请求URL： https://aip.baidubce.com/rest/2.0/ocr/v1/handwriting
-
-* 输入：
-# 
-import requests
-import base64
-
-request_url = "https://aip.baidubce.com/rest/2.0/ocr/v1/general"
-f = open('[本地文件]', 'rb')
-img = base64.b64encode(f.read())
-
-params = {"image":img}
-access_token = '[调用鉴权接口获取的token]'
-request_url = request_url + "?access_token=" + access_token
-headers = {'content-type': 'application/x-www-form-urlencoded'}
-response = requests.post(request_url, data=params, headers=headers)
-if response:
-    print (response.json())
-* 输出：
-{
-    "log_id": 620759800,
-    "words_result": [
-        {
-            "location": {
-                "left": 56,
-                "top": 0,
-                "width": 21,
-                "height": 210
-            },
-            "words": "3"
-        }
-    ],
-    "words_result_num": 1
-}
 
 ### 百度地址识别api（链接）
 * 输入：
