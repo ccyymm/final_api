@@ -64,12 +64,24 @@
 
 
 
-## 代码测试
+## 代码测试（主要以手写字体识别功能为主）
 ### 百度手写文字识别api（链接）
 * 输入：图片
 * 输出：文字
 * 手写字体识别（百度api）：
+![手写字体识别](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.png?raw=true)
+* 效果
+![手写字体识别效果](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.png?raw=true)
 
+* 地址识别效果：
+ 输入：文本文字
+ 输出：地址信息&人物信息
+![地址识别效果](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.png?raw=true)
+
+* 文本纠错效果：
+输入：文本文字
+输出：文本文字，错别字标注&修改建议
+![文本纠错效果](https://github.com/ccyymm/final_api/blob/master/%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E6%95%88%E6%9E%9C.png?raw=true)
 
 
 
