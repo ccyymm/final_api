@@ -45,7 +45,7 @@
 
 
 # 二、原型
-### 完整原型文档连接
+### ![完整原型文档连接](http://nfunm002.gitee.io/apiyuanxing)
 
 ### 手写字体识别界面
 ![手写界面](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.png?raw=true)
