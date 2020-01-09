@@ -66,13 +66,14 @@
 
 
 
-## API代码测试
+## API测试
 ### 百度手写文字识别api
-* 输入：手写文字的图片
-* 输出：文字
-* 手写字体识别（百度api）：
 
-![手写字体识别](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.png?raw=true)
+* 手写字体识别代码测试（百度api）：
+* 输入：手写文字的图片<br>
+* 输出：文字
+
+![手写字体识别](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C%20(4).png?raw=true)
 
 * 识别结果
 ![手写字体识别结果](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C%20(1).png?raw=true)
