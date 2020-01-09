@@ -98,9 +98,9 @@
 | 30<调用次数	 | 0.0045 |
 
 ## 使用比较分析
-* 百度api价格
-* [腾讯手写文字识别](https://ai.qq.com/product/ocr.shtml#handwrite)：图片识别比较慢，容易识别失败
-* [百度手写文字识别](https://ai.baidu.com/tech/ocr_others/handwriting)：识别比较快，成功率较高，成熟度相对高
+* 百度api价格相较于腾讯更低一些
+* [腾讯手写字体识别](https://ai.qq.com/product/ocr.shtml#handwrite)：图片识别比较慢，容易识别失败
+* [百度手写字体识别](https://ai.baidu.com/tech/ocr_others/handwriting)：识别比较快，成功率较高，成熟度相对高
 
 
 
