@@ -78,15 +78,16 @@
 * 识别结果
 ![手写字体识别结果](https://github.com/ccyymm/final_api/blob/master/%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB%E7%BB%93%E6%9E%9C%20(1).png?raw=true)
 
-* 地址识别代码测试：
+### 地址识别api：
  输入：文本文字<br>
  输出：地址信息&人物信息
  <b>输入：</b>
 ![地址识别测试](https://github.com/ccyymm/final_api/blob/master/%E5%9C%B0%E5%9D%80%E8%AF%86%E5%88%AB%E4%BB%A3%E7%A0%81.png?raw=true)
+
  <b>输出：</b>
 ![地址识别测试结果](https://github.com/ccyymm/final_api/blob/master/%E5%9C%B0%E5%9D%80%E8%AF%86%E5%88%AB%E8%B0%83%E7%94%A8%E7%BB%93%E6%9E%9C.jpg?raw=true)
 
-* 文本纠错代码测试：
+### 文本纠错api：
 * 输入：文本文字<br>
 * 输出：文本文字，错别字标注&修改建议
 
