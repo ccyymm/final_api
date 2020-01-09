@@ -55,7 +55,7 @@
 ![地址识别](https://github.com/ccyymm/final_api/blob/master/%E5%9C%B0%E5%9D%80%E8%AF%86%E5%88%AB.png?raw=true)
 
 ### 文本纠错
-![文本纠错](https://github.com/ccyymm/final_api/blob/master/%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E6%95%88%E6%9E%9C.png?raw=true)
+![文本纠错](https://github.com/ccyymm/final_api/blob/master/%E6%96%87%E5%AD%97%E7%BA%A0%E9%94%99.png?raw=true)
 
 # 三、API使用
 ## api调用展示——流程图：
