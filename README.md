@@ -8,6 +8,8 @@
 |开发者| 蔡玉妹 | 
 |测试者| 蔡玉妹 |
 # [项目ppt下载](https://github.com/ccyymm/final_api/blob/master/api20x20.pptx)
+*第一个链接如果不能下载请点击：
+# [项目ppt下载](https://gitee.com/NFUNM002/ppt_download/blob/master/api20x20.pptx)
 # 一、PRD价值主张
 ## 价值宣言
 目前市面上的文字识别软件不少，但是针对手写文字识别的app较少，**精准度也不够高，有些手写字体依然识别不出**，并且没有自动识别文字中地址的功能；,<br>
